@@ -9,10 +9,13 @@ This website was created for a ficticious taco shop. All images used are public 
 ## How It Was Built
 The website was made using:
 
--Bootstrap
--Javascript
--jQuery
--And lots of patience 
+- Bootstrap
+- Javascript
+- jQuery
+- And lots of patience 
+
+## Issues
+- Not (yet) mobile responsive
 
 ## Credits
 This website would not have been possible without my teammate Luisa Lacayo.
